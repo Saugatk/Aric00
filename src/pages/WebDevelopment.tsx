@@ -42,13 +42,13 @@ const WebDevelopment = () => {
                       Blog/Personal Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू18,999 (Simple blog, 3 pages, basic SEO, responsive design, 1-month support)
+                     (Simple blog, 3 pages, basic SEO, responsive design, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू24,999 (5 pages, advanced SEO, contact form, social media links, 2-month support)
+                     (5 pages, advanced SEO, contact form, social media links, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू28,999 (7 pages, premium design, fast loading, security features, 3-month support)
+                     (7 pages, premium design, fast loading, security features, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -56,13 +56,13 @@ const WebDevelopment = () => {
                       Portfolio Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू24,999 (Showcase skills/work, 5 pages, contact form, social media integration, 1-month support)
+                     (Showcase skills/work, 5 pages, contact form, social media integration, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू32,999 (8 pages, animations, testimonials, project gallery, 2-month support)
+                     (8 pages, animations, testimonials, project gallery, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू38,999 (10+ pages, custom design, CMS integration, 3-month support)
+                     (10+ pages, custom design, CMS integration, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -70,13 +70,13 @@ const WebDevelopment = () => {
                       Business Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू28,999 (Up to 5 pages, services showcase, Google Maps, contact form, 1-month support)
+                     (Up to 5 pages, services showcase, Google Maps, contact form, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (8 pages, blog section, lead capture, SEO optimization, 2-month support)
+                     (8 pages, blog section, lead capture, SEO optimization, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (10+ pages, live chat, advanced analytics, 3-month support)
+                     (10+ pages, live chat, advanced analytics, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -110,13 +110,13 @@ const WebDevelopment = () => {
                       E-commerce Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (Up to 10 products, cart system, payment integration, basic SEO, 1-month support)
+                     (Up to 10 products, cart system, payment integration, basic SEO, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू59,999 (Up to 30 products, advanced filtering, email marketing, 2-month support)
+                     (Up to 30 products, advanced filtering, email marketing, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू84,999 (Unlimited products, AI recommendations, loyalty program, 3-month support)
+                     (Unlimited products, AI recommendations, loyalty program, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -124,13 +124,13 @@ const WebDevelopment = () => {
                       Dynamic Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू44,999 (Basic user interactions, database integration, 1-month support)
+                     (Basic user interactions, database integration, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू59,999 (User profiles, dashboards, admin panel, 2-month support)
+                     (User profiles, dashboards, admin panel, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू74,999 (Advanced automation, AI chatbots, custom solutions, 3-month support)
+                     (Advanced automation, AI chatbots, custom solutions, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -138,13 +138,13 @@ const WebDevelopment = () => {
                       Educational Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू59,999 (Course pages, student login, quizzes, payment system, 1-month support)
+                     (Course pages, student login, quizzes, payment system, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू79,999 (Live classes, certification, assignments, 2-month support)
+                     (Live classes, certification, assignments, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू104,999 (Full LMS system, instructor panels, subscriptions, 3-month support)
+                    To Be D (Full LMS system, instructor panels, subscriptions, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -178,13 +178,13 @@ const WebDevelopment = () => {
                       Event/Booking Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (Event details, RSVP form, contact page, 1-month support)
+                     (Event details, RSVP form, contact page, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (Booking system, ticket purchase, email confirmations, 2-month support)
+                     (Booking system, ticket purchase, email confirmations, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू64,999 (Custom calendar, automated reminders, SMS notifications, 3-month support)
+                     (Custom calendar, automated reminders, SMS notifications, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -192,13 +192,13 @@ const WebDevelopment = () => {
                       Real Estate Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू44,999 (Property listings, contact forms, 1-month support)
+                     (Property listings, contact forms, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू59,999 (Property search filters, agent profiles, 2-month support)
+                     (Property search filters, agent profiles, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू79,999 (Virtual tours, mortgage calculator, 3-month support)
+                     (Virtual tours, mortgage calculator, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -206,13 +206,13 @@ const WebDevelopment = () => {
                       Job Portal Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (Job listings, application forms, 1-month support)
+                     (Job listings, application forms, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू64,999 (User accounts, resume uploads, 2-month support)
+                     (User accounts, resume uploads, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू84,999 (AI job matching, employer dashboards, 3-month support)
+                     (AI job matching, employer dashboards, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -246,13 +246,13 @@ const WebDevelopment = () => {
                       Custom Web Application
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (Basic functions, database integration, 1-month support)
+                     (Basic functions, database integration, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू69,999 (User dashboards, automation, 2-month support)
+                     (User dashboards, automation, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू89,999 (AI features, high-performance APIs, 3-month support)
+                     (AI features, high-performance APIs, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -260,13 +260,13 @@ const WebDevelopment = () => {
                       Multi-Language Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (Two languages, basic translation, 1-month support)
+                     (Two languages, basic translation, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (Three languages, automatic translation, 2-month support)
+                     (Three languages, automatic translation, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू64,999 (Five+ languages, AI-powered translation, 3-month support)
+                     (Five+ languages, AI-powered translation, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -274,13 +274,13 @@ const WebDevelopment = () => {
                       Forum/Community Website
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (User discussions, moderation tools, 1-month support)
+                     (User discussions, moderation tools, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू49,999 (Private groups, notifications, 2-month support)
+                     (Private groups, notifications, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू64,999 (Gamification, paid memberships, 3-month support)
+                     (Gamification, paid memberships, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -314,13 +314,13 @@ const WebDevelopment = () => {
                       Social Media Integration
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू18,999 (Basic links, share buttons, 1-month support)
+                     (Basic links, share buttons, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू22,999 (Live feeds, auto-posting, 2-month support)
+                     (Live feeds, auto-posting, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू28,999 (Custom social campaigns, tracking, 3-month support)
+                     (Custom social campaigns, tracking, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -328,13 +328,13 @@ const WebDevelopment = () => {
                       Landing Page for Campaigns
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू14,999 (Single page, contact form, 1-month support)
+                     (Single page, contact form, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू18,999 (A/B testing, lead capture, 2-month support)
+                     (A/B testing, lead capture, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू22,999 (SEO optimized, automated emails, 3-month support)
+                     (SEO optimized, automated emails, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -342,13 +342,13 @@ const WebDevelopment = () => {
                       Mobile App Landing Page
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू18,999 (Simple design, app links, 1-month support)
+                     (Simple design, app links, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू21,999 (Animations, testimonials, 2-month support)
+                     (Animations, testimonials, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू24,999 (Video integration, advanced tracking, 3-month support)
+                     (Video integration, advanced tracking, 3-month support)
                     </td>
                   </tr>
                 </tbody>

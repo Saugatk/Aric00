@@ -42,13 +42,13 @@ const AppDevelopment = () => {
                       Personal App (For Portfolio, Blogs, Social Media Management, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू39,999 (Basic UI, 4-5 pages, contact form, social media links, 1-month support)
+                    (Basic UI, 4-5 pages, contact form, social media links, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू54,999 (8 pages, animations, notifications, analytics, 2-month support)
+                    (8 pages, animations, notifications, analytics, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू69,999 (10+ pages, custom UI/UX, offline mode, 3-month support)
+                      (10+ pages, custom UI/UX, offline mode, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -56,13 +56,13 @@ const AppDevelopment = () => {
                       Business App (For Showcasing Services, Appointments, and Branding)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू54,999 (Basic UI, 5 pages, contact form, Google Maps, 1-month support)
+                      (Basic UI, 5 pages, contact form, Google Maps, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू74,999 (8 pages, user login, service booking, payments, 2-month support)
+                      (8 pages, user login, service booking, payments, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू94,999 (10+ pages, CRM integration, automation, 3-month support)
+                      (10+ pages, CRM integration, automation, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -70,13 +70,13 @@ const AppDevelopment = () => {
                       Social Networking App (For Community Building & Engagement)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू69,999 (User profiles, messaging, post-sharing, 1-month support)
+                      (User profiles, messaging, post-sharing, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू94,999 (Media uploads, likes/comments, group chats, 2-month support)
+                      (Media uploads, likes/comments, group chats, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू129,999 (Live streaming, AI recommendations, end-to-end encryption, 3-month support)
+                    (Live streaming, AI recommendations, end-to-end encryption, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -110,13 +110,13 @@ const AppDevelopment = () => {
                       E-commerce App (For Selling Products Online – Shopify Alternative)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू74,999 (10 products, cart system, payment gateway, 1-month support)
+                      (10 products, cart system, payment gateway, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू99,999 (30 products, categories, wishlist, order tracking, 2-month support)
+                      (30 products, categories, wishlist, order tracking, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू129,999 (Unlimited products, AI recommendations, push notifications, 3-month support)
+                      रू(Unlimited products, AI recommendations, push notifications, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -124,13 +124,13 @@ const AppDevelopment = () => {
                       Food Delivery App (Like Foodmandu, Uber Eats, Zomato, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू84,999 (Basic UI, restaurant listing, order system, 1-month support)
+                    (Basic UI, restaurant listing, order system, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू119,999 (GPS tracking, user accounts, multiple vendors, 2-month support)
+                    (GPS tracking, user accounts, multiple vendors, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू149,999 (Real-time tracking, AI suggestions, driver dashboard, 3-month support)
+                    (Real-time tracking, AI suggestions, driver dashboard, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -138,13 +138,13 @@ const AppDevelopment = () => {
                       Service Marketplace App (Like Fiverr, Upwork, UrbanClap, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू89,999 (Basic UI, service listings, contact forms, 1-month support)
+                    (Basic UI, service listings, contact forms, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू129,999 (User profiles, reviews, online payments, 2-month support)
+                    (User profiles, reviews, online payments, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू169,999 (Booking system, live chat, advanced analytics, 3-month support)
+                    (Booking system, live chat, advanced analytics, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -178,13 +178,13 @@ const AppDevelopment = () => {
                       Appointment Booking App (For Doctors, Salons, Clinics, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू69,999 (Simple booking system, calendar, 1-month support)
+                    (Simple booking system, calendar, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू94,999 (Automated reminders, payment system, 2-month support)
+                    (Automated reminders, payment system, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू124,999 (Video consultation, multi-provider support, 3-month support)
+                    (Video consultation, multi-provider support, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -192,13 +192,13 @@ const AppDevelopment = () => {
                       Event & Ticketing App (For Concerts, Conferences, Webinars, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू74,999 (Event listings, RSVP system, 1-month support)
+                    (Event listings, RSVP system, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू104,999 (Ticket purchase, QR code scanning, 2-month support)
+                    (Ticket purchase, QR code scanning, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू139,999 (Live streaming, real-time engagement, 3-month support)
+                    (Live streaming, real-time engagement, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -206,13 +206,13 @@ const AppDevelopment = () => {
                       Real Estate App (For Property Listings & Rentals)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू79,999 (Basic listings, search filters, 1-month support)
+                    (Basic listings, search filters, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू109,999 (User accounts, virtual tours, 2-month support)
+                    (User accounts, virtual tours, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू139,999 (AI-powered recommendations, chatbots, 3-month support)
+                    (AI-powered recommendations, chatbots, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -246,13 +246,13 @@ const AppDevelopment = () => {
                       E-Learning App (Like Udemy, Coursera, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू84,999 (Course pages, quizzes, payment system, 1-month support)
+                    (Course pages, quizzes, payment system, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू119,999 (Live classes, student progress tracking, 2-month support)
+                    (Live classes, student progress tracking, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू159,999 (Full LMS system, AI tutoring, multi-instructor support, 3-month support)
+                    (Full LMS system, AI tutoring, multi-instructor support, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -260,13 +260,13 @@ const AppDevelopment = () => {
                       Kids Learning App (For Fun & Interactive Learning)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू69,999 (Basic lessons, interactive quizzes, 1-month support)
+                    (Basic lessons, interactive quizzes, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू99,999 (Animated lessons, voice commands, 2-month support)
+                    (Animated lessons, voice commands, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू139,999 (Augmented reality (AR) features, AI voice assistant, 3-month support)
+                    (Augmented reality (AR) features, AI voice assistant, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -300,13 +300,13 @@ const AppDevelopment = () => {
                       AI Chatbot App (For Automated Customer Service & Assistance)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू89,999 (Basic chatbot, FAQ automation, 1-month support)
+                    (Basic chatbot, FAQ automation, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू124,999 (AI-powered chatbot, voice assistance, 2-month support)
+                    (AI-powered chatbot, voice assistance, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू169,999 (Natural language processing, multi-channel support, 3-month support)
+                    (Natural language processing, multi-channel support, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -314,13 +314,13 @@ const AppDevelopment = () => {
                       Healthcare & Fitness App (For Tracking Health & Workouts)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू79,999 (Basic health tracking, diet plans, 1-month support)
+                    (Basic health tracking, diet plans, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू109,999 (Workout programs, progress tracking, 2-month support)
+                    (Workout programs, progress tracking, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू149,999 (AI health recommendations, wearables integration, 3-month support)
+                    (AI health recommendations, wearables integration, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -328,13 +328,13 @@ const AppDevelopment = () => {
                       FinTech & Banking App (For Payments, Crypto, Stock Trading, etc.)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू99,999 (Basic transactions, account management, 1-month support)
+                    (Basic transactions, account management, 1-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू139,999 (Advanced security, multi-currency support, 2-month support)
+                    (Advanced security, multi-currency support, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रू199,999 (AI investment insights, blockchain integration, 3-month support)
+                    (AI investment insights, blockchain integration, 3-month support)
                     </td>
                   </tr>
                 </tbody>

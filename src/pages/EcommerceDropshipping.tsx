@@ -42,13 +42,13 @@ import React from 'react';
                           Single-Product Store (Ideal for branded products, courses, or digital downloads)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू39,999 (1 product, landing page, payment gateway, 1-month support)
+                          (1 product, landing page, payment gateway, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू59,999 (Custom design, upsells, analytics, 2-month support)
+                          (Custom design, upsells, analytics, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू89,999 (AI-powered sales funnel, automation, 3-month support)
+                          (AI-powered sales funnel, automation, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -56,13 +56,13 @@ import React from 'react';
                           Multi-Product Store (Small Business E-commerce)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू54,999 (10 products, cart system, secure checkout, 1-month support)
+                          (10 products, cart system, secure checkout, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू79,999 (30 products, categories, discount system, 2-month support)
+                          (30 products, categories, discount system, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू119,999 (Unlimited products, AI recommendations, subscriptions, 3-month support)
+                           (Unlimited products, AI recommendations, subscriptions, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -70,13 +70,13 @@ import React from 'react';
                           Custom E-commerce Marketplace (Like Amazon, Etsy, etc.)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू99,999 (Basic UI, vendor accounts, commission system, 1-month support)
+                          (Basic UI, vendor accounts, commission system, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू149,999 (Multi-vendor support, real-time tracking, 2-month support)
+                           (Multi-vendor support, real-time tracking, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू199,999 (AI-driven marketplace, automation, 3-month support)
+                           (AI-driven marketplace, automation, 3-month support)
                         </td>
                       </tr>
                     </tbody>
@@ -110,13 +110,13 @@ import React from 'react';
                           Shopify Dropshipping Store (Quick & easy launch for beginners)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू44,999 (10 products, branded design, payment setup, 1-month support)
+                          (10 products, branded design, payment setup, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू69,999 (30 products, premium theme, sales automation, 2-month support)
+                          (30 products, premium theme, sales automation, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू99,999 (Full automation, AI-powered product research, 3-month support)
+                          (Full automation, AI-powered product research, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -124,13 +124,13 @@ import React from 'react';
                           WooCommerce Dropshipping Store (For WordPress users – More customization)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू39,999 (10 products, payment setup, 1-month support)
+                          (10 products, payment setup, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू64,999 (30 products, conversion optimization, 2-month support)
+                          (30 products, conversion optimization, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू94,999 (Full automation, upsells, email marketing, 3-month support)
+                          (Full automation, upsells, email marketing, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -138,13 +138,13 @@ import React from 'react';
                           Custom Dropshipping Store (For Any Niche – Full Control)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू74,999 (Basic store, 20 products, supplier setup, 1-month support)
+                          (Basic store, 20 products, supplier setup, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू99,999 (50 products, AI recommendations, analytics, 2-month support)
+                          (50 products, AI recommendations, analytics, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू139,999 (100+ products, smart automation, scaling strategy, 3-month support)
+                           (100+ products, smart automation, scaling strategy, 3-month support)
                         </td>
                       </tr>
                     </tbody>
@@ -178,13 +178,13 @@ import React from 'react';
                           Product Research & Niche Selection (Find winning products with data-driven research)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू9,999 (3 product recommendations, basic market analysis)
+                          3 product recommendations, basic market analysis)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू19,999 (5+ products, competitor research, pricing strategy)
+                          (5+ products, competitor research, pricing strategy)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू29,999 (10+ products, AI-powered market prediction, demand forecast)
+                          (10+ products, AI-powered market prediction, demand forecast)
                         </td>
                       </tr>
                       <tr>
@@ -192,13 +192,13 @@ import React from 'react';
                           Conversion Rate Optimization (CRO) (Increase sales with optimized funnels & strategies)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू19,999 (Checkout optimization, abandoned cart recovery)
+                          (Checkout optimization, abandoned cart recovery)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू39,999 (Landing page redesign, upsells, trust-building elements)
+                          (Landing page redesign, upsells, trust-building elements)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू69,999 (AI-driven heatmaps, dynamic pricing, A/B testing)
+                          (AI-driven heatmaps, dynamic pricing, A/B testing)
                         </td>
                       </tr>
                       <tr>
@@ -206,13 +206,13 @@ import React from 'react';
                           Automated Order Fulfillment Setup (Seamless backend automation for scaling)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू14,999 (Basic fulfillment integration)
+                          (Basic fulfillment integration)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू29,999 (Auto-ordering, tracking updates, supplier sync)
+                          (Auto-ordering, tracking updates, supplier sync)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू49,999 (Full automation, AI-based order processing)
+                          (Full automation, AI-based order processing)
                         </td>
                       </tr>
                     </tbody>
@@ -246,13 +246,13 @@ import React from 'react';
                           Facebook & Instagram Ads (For Dropshipping & E-commerce)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू24,999 (1 ad campaign, audience targeting, 1-month support)
+                          (1 ad campaign, audience targeting, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू44,999 (Retargeting, lookalike audiences, ad creatives, 2-month support)
+                          (Retargeting, lookalike audiences, ad creatives, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू74,999 (Multi-platform scaling, AI optimization, 3-month support)
+                          (Multi-platform scaling, AI optimization, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -260,13 +260,13 @@ import React from 'react';
                           Google Shopping Ads (For E-commerce Sales Boosting)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू29,999 (Basic setup, 1-month support)
+                          (Basic setup, 1-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू54,999 (Conversion tracking, bid strategy, 2-month support)
+                          (Conversion tracking, bid strategy, 2-month support)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू89,999 (Advanced analytics, automation, 3-month support)
+                          (Advanced analytics, automation, 3-month support)
                         </td>
                       </tr>
                       <tr>
@@ -274,13 +274,13 @@ import React from 'react';
                           Influencer Marketing (For Niche Authority & Sales Boosting)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू19,999 (Micro-influencers, brand partnerships)
+                          (Micro-influencers, brand partnerships)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू39,999 (Influencer campaigns, affiliate marketing setup)
+                          (Influencer campaigns, affiliate marketing setup)
                         </td>
                         <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                          रू69,999 (Viral influencer collaborations, TikTok growth strategy)
+                          (Viral influencer collaborations, TikTok growth strategy)
                         </td>
                       </tr>
                     </tbody>
@@ -293,10 +293,10 @@ import React from 'react';
                 <h2 className="text-2xl font-semibold text-gray-800 mb-4">🎁 Exclusive Add-Ons & Upsells</h2>
                 <ul className="list-disc list-inside text-gray-700 mb-4">
                   <li>🔹 <b>Bulk Order Discounts:</b> 10% off for clients ordering multiple services</li>
-                  <li>🔹 <b>Ongoing Store Management:</b> रू9,999/month for updates, security, and optimizations</li>
-                  <li>🔹 <b>Full Branding Package:</b> Logo, colors, brand identity, and marketing strategy (रू14,999)</li>
-                  <li>🔹 <b>Private Label Dropshipping Setup:</b> रू49,999 (Branding, supplier connections, bulk inventory)</li>
-                  <li>🔹 <b>AI-Powered Chatbot for Customer Support:</b> रू19,999 (Automated responses, 24/7 support)</li>
+                  <li>🔹 <b>Ongoing Store Management:</b> onth for updates, security, and optimizations</li>
+                  <li>🔹 <b>Full Branding Package:</b> Logo, colors, brand identity, and marketing strategy (</li>
+                  <li>🔹 <b>Private Label Dropshipping Setup:</b> (Branding, supplier connections, bulk inventory)</li>
+                  <li>🔹 <b>AI-Powered Chatbot for Customer Support:</b> (Automated responses, 24/7 support)</li>
                 </ul>
 
                 <h2 className="text-2xl font-semibold text-gray-800 mb-4">🔥 Why Choose AriciaLabs?</h2>

@@ -42,13 +42,13 @@ const Saas = () => {
                       Small Business CRM
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु39,999 (Lead management, contact storage, basic reports)
+                      (Lead management, contact storage, basic reports)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु59,999 (Automation, integrations, 2-month support)
+                      (Automation, integrations, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (Advanced reporting, AI insights, 3-month support)
+                      (Advanced reporting, AI insights, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -56,13 +56,13 @@ const Saas = () => {
                       Enterprise CRM
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु89,999 (Multi-user access, analytics, reporting)
+                      (Multi-user access, analytics, reporting)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु119,999 (Custom workflows, integrations, 2-month support)
+                      रु(Custom workflows, integrations, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु159,999 (Custom CRM design, AI-powered insights)
+                      रु(Custom CRM design, AI-powered insights)
                     </td>
                   </tr>
                 </tbody>
@@ -96,13 +96,13 @@ const Saas = () => {
                       Basic E-Commerce Platform
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Product management, basic checkout, payment gateway)
+                      (Product management, basic checkout, payment gateway)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु74,999 (Discounts, product reviews, 2-month support)
+                      (Discounts, product reviews, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Advanced product recommendations, analytics, 3-month support)
+                      (Advanced product recommendations, analytics, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -110,13 +110,13 @@ const Saas = () => {
                       Advanced E-Commerce Platform
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु89,999 (Subscription-based, advanced product management)
+                      (Subscription-based, advanced product management)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु119,999 (Multi-currency, multi-language, 3-month support)
+                      (Multi-currency, multi-language, 3-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु149,999 (AI-powered marketing, integrations with third-party apps)
+                      (AI-powered marketing, integrations with third-party apps)
                     </td>
                   </tr>
                 </tbody>
@@ -150,13 +150,13 @@ const Saas = () => {
                       Appointment Scheduler (Small Business)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु34,999 (Calendar view, reminders, online booking)
+                      (Calendar view, reminders, online booking)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Payment system, automated reminders, 2-month support)
+                      (Payment system, automated reminders, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Multi-provider support, group scheduling, 3-month support)
+                      (Multi-provider support, group scheduling, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -164,13 +164,13 @@ const Saas = () => {
                       Advanced Scheduling for Enterprises
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (Advanced scheduling, team management)
+                      (Advanced scheduling, team management)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Custom workflows, video conferencing integration)
+                      (Custom workflows, video conferencing integration)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु129,999 (AI scheduling assistant, multi-location support)
+                      रु(AI scheduling assistant, multi-location support)
                     </td>
                   </tr>
                 </tbody>
@@ -204,13 +204,13 @@ const Saas = () => {
                       Basic LMS
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु59,999 (Course creation, quizzes, user management)
+                     (Course creation, quizzes, user management)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु89,999 (Live sessions, advanced reporting, 2-month support)
+                     (Live sessions, advanced reporting, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु119,999 (Custom course templates, gamification features)
+                      (Custom course templates, gamification features)
                     </td>
                   </tr>
                   <tr>
@@ -218,13 +218,13 @@ const Saas = () => {
                       Corporate LMS
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु119,999 (Employee training, certifications)
+                      (Employee training, certifications)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु159,999 (AI-powered learning paths, progress tracking)
+                      (AI-powered learning paths, progress tracking)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु199,999 (Gamified learning, content personalization)
+                      (Gamified learning, content personalization)
                     </td>
                   </tr>
                 </tbody>
@@ -258,13 +258,13 @@ const Saas = () => {
                       Task Management Tool
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु29,999 (Task creation, assignees, deadline tracking)
+                     (Task creation, assignees, deadline tracking)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Collaborative boards, time tracking)
+                     (Collaborative boards, time tracking)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Advanced reporting, integrations, 2-month support)
+                     (Advanced reporting, integrations, 2-month support)
                     </td>
                   </tr>
                   <tr>
@@ -272,13 +272,13 @@ const Saas = () => {
                       Project Management Tool
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Project timelines, team roles)
+                     (Project timelines, team roles)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Budget tracking, milestone setting)
+                     (Budget tracking, milestone setting)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु129,999 (Advanced Gantt charts, resource management)
+                      (Advanced Gantt charts, resource management)
                     </td>
                   </tr>
                 </tbody>
@@ -312,13 +312,13 @@ const Saas = () => {
                       Two-Factor Authentication (2FA)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु19,999 (SMS/email verification)
+                      (SMS/email verification)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु29,999 (App-based authentication, reporting)
+                      (App-based authentication, reporting)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु39,999 (Biometric authentication, 3-month support)
+                      (Biometric authentication, 3-month support)
                     </td>
                   </tr>
                   <tr>
@@ -326,13 +326,13 @@ const Saas = () => {
                       Advanced Security Suite
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Firewall, anti-malware)
+                      (Firewall, anti-malware)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Intrusion detection, 2-month support)
+                      (Intrusion detection, 2-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु89,999 (AI-based threat analysis, 3-month support)
+                      (AI-based threat analysis, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -366,13 +366,13 @@ const Saas = () => {
                       Employee Management System
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु39,999 (Employee database, attendance tracking)
+                      (Employee database, attendance tracking)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु59,999 (Payroll processing, reporting)
+                      (Payroll processing, reporting)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (HR analytics, advanced leave management)
+                      (HR analytics, advanced leave management)
                     </td>
                   </tr>
                   <tr>
@@ -380,13 +380,13 @@ const Saas = () => {
                       Payroll & Benefits System
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Salary calculations, tax filing)
+                      (Salary calculations, tax filing)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (Benefits tracking, automated deductions)
+                      (Benefits tracking, automated deductions)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Custom benefits, HR dashboard, 3-month support)
+                      (Custom benefits, HR dashboard, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -420,13 +420,13 @@ const Saas = () => {
                       Basic Analytics Dashboard
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु39,999 (Basic KPIs, data visualization)
+                      (Basic KPIs, data visualization)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु59,999 (Advanced filters, custom reports)
+                      (Advanced filters, custom reports)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (Real-time analytics, predictive modeling)
+                      (Real-time analytics, predictive modeling)
                     </td>
                   </tr>
                   <tr>
@@ -434,13 +434,13 @@ const Saas = () => {
                       Advanced Data Analytics
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु79,999 (Big data processing, custom dashboards)
+                      (Big data processing, custom dashboards)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (AI insights, deep learning algorithms)
+                      (AI insights, deep learning algorithms)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु149,999 (Real-time streaming analytics, 3-month support)
+                    (Real-time streaming analytics, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -474,13 +474,13 @@ const Saas = () => {
                       Cloud Storage Solution
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु19,999 (1 TB storage, basic security)
+                      (1 TB storage, basic security)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु29,999 (3 TB storage, backup features)
+                      (3 TB storage, backup features)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Unlimited storage, encryption)
+                      (Unlimited storage, encryption)
                     </td>
                   </tr>
                   <tr>
@@ -488,13 +488,13 @@ const Saas = () => {
                       Cloud Infrastructure Management
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु59,999 (Load balancing, firewall)
+                      (Load balancing, firewall)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु89,999 (Auto-scaling, monitoring)
+                      (Auto-scaling, monitoring)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु129,999 (AI-driven optimizations, 24/7 support)
+                    (AI-driven optimizations, 24/7 support)
                     </td>
                   </tr>
                 </tbody>
@@ -528,13 +528,13 @@ const Saas = () => {
                       Email Campaigns
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु29,999 (Email templates, automation)
+                      (Email templates, automation)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (A/B testing, email segmentation)
+                      (A/B testing, email segmentation)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Advanced analytics, personalization)
+                      (Advanced analytics, personalization)
                     </td>
                   </tr>
                   <tr>
@@ -542,13 +542,13 @@ const Saas = () => {
                       Advanced Email Marketing Platform
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Drip campaigns, CRM integration)
+                      (Drip campaigns, CRM integration)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Automated workflows, multi-channel support)
+                      (Automated workflows, multi-channel support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु129,999 (AI-driven campaigns, 3-month support)
+                      (AI-driven campaigns, 3-month support)
                     </td>
                   </tr>
                 </tbody>
@@ -582,13 +582,13 @@ const Saas = () => {
                       Basic BaaS
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु29,999 (Authentication, database)
+                      (Authentication, database)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु49,999 (Push notifications, storage)
+                      (Push notifications, storage)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Data analytics, AI insights)
+                      (Data analytics, AI insights)
                     </td>
                   </tr>
                   <tr>
@@ -596,13 +596,13 @@ const Saas = () => {
                       Advanced BaaS
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु69,999 (Custom APIs, advanced analytics)
+                      (Custom APIs, advanced analytics)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु99,999 (Multi-platform support, 3-month support)
+                      (Multi-platform support, 3-month support)
                     </td>
                     <td className="px-5 py-5 border-b border-gray-200 bg-white text-sm">
-                      रु129,999 (AI-driven features, 6-month support)
+                      (AI-driven features, 6-month support)
                     </td>
                   </tr>
                 </tbody>
